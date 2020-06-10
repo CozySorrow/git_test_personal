@@ -1,0 +1,18 @@
+﻿  sosurce.cpp
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(86): error C2143: syntax error: missing ';' before '*'
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(86): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(86): error C2238: unexpected token(s) preceding ';'
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(124): error C2061: syntax error: identifier 'Student'
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(119): error C2065: 'students': undeclared identifier
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(126): error C2065: 'Student': undeclared identifier
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(126): error C2065: 'tmp': undeclared identifier
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(126): error C2061: syntax error: identifier 'Student'
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(128): error C2065: 'tmp': undeclared identifier
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(128): error C2065: 'students': undeclared identifier
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(129): error C2065: 'tmp': undeclared identifier
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(129): error C2065: 's': undeclared identifier
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(131): error C2065: 'students': undeclared identifier
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(131): error C2065: 'tmp': undeclared identifier
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(232): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(244): error C2660: 'Group::appendGroup': function does not take 1 arguments
+  c:\users\max\source\repos\start_with_objects_09.06\start_with_objects_09.06\sosurce.cpp(124): note: see declaration of 'Group::appendGroup'
